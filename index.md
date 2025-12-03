@@ -1,10 +1,13 @@
 
-# Huu Ngoc Minh Nguyen's Portfolio 🌟
+# Huu Ngoc Minh Nguyen's Portfolio 🫧
 
-    Hello everyone, welcome to my personal portfolio! I'm currently a computer science major at CalState Fullerton and I plan to graduate in 2027.
-    Over the past 16 weeks, I have learned problem solving and programming several lab exercieses that strengthened my coding skills and teamwork. This portfolio is a showcase of my favorite projects from CPSC 120L Labs to reflect my dedication to learning.
+    Hello everyone, welcome to my personal portfolio! 👋
+    I'm currently a computer science major at CalState Fullerton and I plan to graduate in 2027.
+    Over the past 16 weeks, I have learned problem solving and programming several lab exercieses that strengthened my
+    coding skills and teamwork. 
+    This portfolio is a showcase of my favorite projects from CPSC 120L Labs to reflect my dedication to learning.
 
-## Favorite CPSC 120L Labs
+## 🌟 Favorite CPSC 120L Labs
 
 * Lab 9 - part 2: Guessing A Secret Number In A File 🔢
 
